@@ -1,16 +1,63 @@
-# React + Vite
+# IELTS Homepage - Static Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+This is a **static landing page** for a fictional IELTS institute, built using **React JS** and **Tailwind CSS**.  
+The page is **fully responsive** on desktop and mobile and focuses on **modern, clean UI design**.
 
-Currently, two official plugins are available:
+## Features
+- **Responsive Navbar** with mobile hamburger menu
+- **Hero Section** with headline, image, and “Get Started” button
+- **4 Feature Cards**: Mock Tests, Speaking Practice, AI Band Score, Expert Guidance
+- **Student Testimonials**
+- **Footer** with contact information
+- Smooth scrolling and hover effects for interactive experience
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React JS
+- Tailwind CSS
+- Vite (development server)
+- PostCSS + Autoprefixer
 
-## React Compiler
+## Setup Instructions
+1. Clone the repository:
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```bash
+git clone https://github.com/ADNAN-ZEYA/ielts-homepage.git
 
-## Expanding the ESLint configuration
+2.Navigate into the project folder:
+```bash
+cd ielts-homepage
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+3.Install dependencies:
+```bash
+npm install
+
+4.Start the development server:
+```bash
+npm run dev
+
+##Design Choices
+
+Used Tailwind CSS for fast, responsive layout and hover effects.
+
+Mobile menu toggle uses React useState.
+
+“Get Started” button scrolls smoothly to Features section.
+
+Feature cards and testimonials include hover shadow and scale effects for modern UI feel.
+
+Layout designed to be professional and visually appealing, suitable for an IELTS institute.
+
+## Deployment / Preview
+
+Here is a preview of the IELTS homepage:
+<img width="1896" height="904" alt="image" src="https://github.com/user-attachments/assets/3741c83d-2ca8-47db-b5af-963dab824185" />
+<img width="1898" height="905" alt="image" src="https://github.com/user-attachments/assets/e87e7986-066a-43c2-a860-958419ee1ae9" />
+<img width="1893" height="733" alt="image" src="https://github.com/user-attachments/assets/15ea81fa-0a27-4502-aa2b-d74dc1da1d4b" />
+
+
+
+
+
+
+
