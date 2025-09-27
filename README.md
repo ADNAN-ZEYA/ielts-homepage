@@ -36,7 +36,7 @@ npm install
 ```bash
 npm run dev
 
-##Design Choices
+## Design Choices
 
 Used Tailwind CSS for fast, responsive layout and hover effects.
 
