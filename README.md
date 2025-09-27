@@ -1,35 +1,30 @@
 # IELTS Homepage - Static Landing Page
-##Overview
-This is a static landing page for a fictional IELTS institute, built using React JS and Tailwind CSS. The page is fully responsive on desktop and mobile and focuses on modern, clean UI design.
+## Overview
+## Overview
+This is a **static landing page** for a fictional IELTS institute, built using **React JS** and **Tailwind CSS**.  
+The page is **fully responsive** on desktop and mobile and focuses on **modern, clean UI design**.
 
 ## Features
-Responsive Navbar with mobile hamburger menu
-
-Hero Section with headline, image, and "Get Started" button
-
-4 Feature Cards: Mock Tests, Speaking Practice, AI Band Score, Expert Guidance
-
-Student Testimonials
-
-Footer with contact information
-
-Smooth scrolling and hover effects for interactive experience
+- **Responsive Navbar** with mobile hamburger menu  
+- **Hero Section** with headline, image, and “Get Started” button  
+- **4 Feature Cards**: Mock Tests, Speaking Practice, AI Band Score, Expert Guidance  
+- **Student Testimonials**  
+- **Footer** with contact information  
+- Smooth scrolling and hover effects for interactive experience  
 
 ## Technologies Used
-React JS
-
-Tailwind CSS
-
-Vite (development server)
-
-PostCSS + Autoprefixer
+- React JS  
+- Tailwind CSS  
+- Vite (development server)  
+- PostCSS + Autoprefixer  
 
 # Setup Instructions
 Clone the repository:
 
-Code snippet
+````Bash
 
 git clone https://github.com/ADNAN-ZEYA/ielts-homepage.git
+````
 Navigate into the project folder:
 
 Bash
