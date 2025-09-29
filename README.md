@@ -53,7 +53,7 @@ npm run dev
 
 - Layout designed to be professional and visually appealing, suitable for an IELTS institute.
 
-##Deployment
+## Deployment
 - Here is a preview of the IELTS homepage:
 
 <img width="1896" height="904" alt="image" src="https://github.com/user-attachments/assets/3741c83d-2ca8-47db-b5af-963dab824185" />
